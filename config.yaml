@@ -1,0 +1,7 @@
+base_url: https://demoqa.com
+browser: chrome
+headless: false
+implicit_wait: 5
+explicit_wait: 10
+screenshot_on_failure: true
+test_data_path: data/forms_test_data.csv

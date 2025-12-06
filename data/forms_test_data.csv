@@ -1,0 +1,5 @@
+first_name,last_name,email,gender,mobile,date_of_birth,subject,hobby,address,state,city,expected_result
+John,Doe,john.doe@example.com,Male,9876543210,01/01/1990,Math,Sports,123 Main Street,NCR,Delhi,success
+Jane,Smith,jane.smith@example.com,Female,8765432109,15/05/1995,English,Reading,456 Oak Avenue,Rajasthan,Jaipur,success
+Bob,Johnson,bob@invalid,Male,7654321098,10/10/1988,Physics,Music,789 Pine Road,Uttar Pradesh,Lucknow,email_validation_error
+Alice,Brown,alice.brown@example.com,Female,9999999999,20/12/1992,Chemistry,Sports,321 Elm Street,Haryana,Panipat,success
